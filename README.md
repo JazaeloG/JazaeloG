@@ -65,7 +65,7 @@ Aquí tienes un vistazo rápido a algunas de las tecnologías y herramientas que
     <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="github" width="40" height="40"/>
   </a>
   <a href="https://www.okteto.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/okteto/okteto-ar21.svg" alt="okteto" width="40" height="40"/>
+    <img src="https://api.civo.com/k3s-marketplace/okteto.png" alt="okteto" width="40" height="40"/>
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
