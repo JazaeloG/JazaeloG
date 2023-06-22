@@ -1,6 +1,6 @@
 ## ¡Hola! 👋 
 
-Soy Omar Jazaek, estudiante de Ingeniería de Software. Disfruto explorando nuevas herramientas y tecnologías para mejorar mis habilidades, como la busqueda de retos a superar.
+Soy Omar Jazael, estudiante de Ingeniería de Software. Disfruto explorando nuevas herramientas y tecnologías para mejorar mis habilidades, como la busqueda de retos a superar.
 
 ### Lenguajes y Herramientas:
 
@@ -98,7 +98,7 @@ Aquí tienes un vistazo rápido a algunas de las tecnologías y herramientas que
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+    <img src="https://blog.geekandjob.com/wp-content/uploads/2020/05/logo_django_2.png" alt="django" width="40" height="40"/>
   </a>
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
@@ -114,7 +114,7 @@ Aquí tienes algunas estadísticas que pueden darte una idea de mi experiencia y
 <p align="center"> <a href="https://github.com/JazaeloG/"><img src="https://github-profile-trophy.vercel.app/?username=leo-oh&theme=discord&column=-1" alt="JazaeloG"/></a> </p>
 
 <div align="center">
-<a href="https://github.com/DanielaaER">
+<a href="https://github.com/JazaeloG">
     <img height="100em" src="https://github-readme-stats.vercel.app/api?username=JazaeloG&count_private=false&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=false&show_owner=true"/>
     <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JazaeloG&theme=tokyonight&hide_border=false&&layout=compact"/>
     <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=JazaeloG&theme=tokyonight&hide_border=false&&layout=compact" alt="JazaeloG"/>
